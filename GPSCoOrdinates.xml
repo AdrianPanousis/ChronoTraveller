@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GPSList>
+  
+  <Acropolis>
+    
+      <West>23.724530</West>
+      <East>23.728366</East>
+      <North>37.972325</North>
+      <South>37.971085</South>
+    
+      <MouseBoundYMin>292</MouseBoundYMin>
+      <MouseBoundYMax>783</MouseBoundYMax>
+      <MouseBoundXMin>360</MouseBoundXMin>
+      <MouseBoundXMax>1556</MouseBoundXMax>
+
+      <PlacementHeight>29</PlacementHeight>
+    
+      
+  </Acropolis>
+
+  <Agora>
+
+    <West>23.721220</West>
+    <East>23.724358</East>
+    <North>37.976000</North>
+    <South>37.973823</South>
+
+    <MouseBoundYMin>252</MouseBoundYMin>
+    <MouseBoundYMax>821</MouseBoundYMax>
+    <MouseBoundXMin>604</MouseBoundXMin>
+    <MouseBoundXMax>1261</MouseBoundXMax>
+
+    <PlacementHeight>-25</PlacementHeight>
+
+
+  </Agora>
+
+  <HadrianLibrary>
+
+    <West>23.725468</West>
+    <East>23.727377</East>
+    <North>37.975882</North>
+    <South>37.974806</South>
+
+    <MouseBoundYMin>283</MouseBoundYMin>
+    <MouseBoundYMax>920</MouseBoundYMax>
+    <MouseBoundXMin>512</MouseBoundXMin>
+    <MouseBoundXMax>1408</MouseBoundXMax>
+
+    <PlacementHeight>-16</PlacementHeight>
+
+
+  </HadrianLibrary>
+
+  <RomanForum>
+
+    <West>23.725400</West>
+    <East>23.727300</East>
+    <North>37.974900</North>
+    <South>37.973900</South>
+
+    <MouseBoundYMin>351</MouseBoundYMin>
+    <MouseBoundYMax>853</MouseBoundYMax>
+    <MouseBoundXMin>589</MouseBoundXMin>
+    <MouseBoundXMax>1337</MouseBoundXMax>
+
+    <PlacementHeight>-11</PlacementHeight>
+
+
+  </RomanForum>
+
+  <Olympeion>
+
+    <West>23.731800</West>
+    <East>23.734400</East>
+    <North>37.970300</North>
+    <South>37.968100</South>
+
+    <MouseBoundYMin>222</MouseBoundYMin>
+    <MouseBoundYMax>1028</MouseBoundYMax>
+    <MouseBoundXMin>595</MouseBoundXMin>
+    <MouseBoundXMax>1351</MouseBoundXMax>
+
+    <PlacementHeight>-17</PlacementHeight>
+
+  </Olympeion>
+
+  <TheatreOfDionysus>
+
+    <West>23.726900</West>
+    <East>23.729300</East>
+    <North>37.971100</North>
+    <South>37.969600</South>
+
+    <MouseBoundYMin>188</MouseBoundYMin>
+    <MouseBoundYMax>894</MouseBoundYMax>
+    <MouseBoundXMin>511</MouseBoundXMin>
+    <MouseBoundXMax>1407</MouseBoundXMax>
+
+    <PlacementHeight>-48</PlacementHeight>
+
+  </TheatreOfDionysus>
+  
+  <Odeon>
+
+    <West>23.724000</West>
+    <East>23.727200</East>
+    <North>37.971300</North>
+    <South>37.970300</South>
+
+    <MouseBoundYMin>311</MouseBoundYMin>
+    <MouseBoundYMax>780</MouseBoundYMax>
+    <MouseBoundXMin>365</MouseBoundXMin>
+    <MouseBoundXMax>1549</MouseBoundXMax>
+
+    <PlacementHeight>-30</PlacementHeight>
+    
+  </Odeon>
+  
+  </GPSList>
